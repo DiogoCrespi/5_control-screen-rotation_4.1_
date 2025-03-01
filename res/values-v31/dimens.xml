@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="notification_background_corners">8.0dip</dimen>
+    <dimen name="notification_padding_start">5.0dip</dimen>
+    <dimen name="notification_stroke">1.0dip</dimen>
+</resources>

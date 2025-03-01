@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ad0_array">
+        <item>" Get Free Apps"</item>
+        <item>Download awesome apps for your android device</item>
+        <item>Download free apps for your android device</item>
+    </string-array>
+</resources>

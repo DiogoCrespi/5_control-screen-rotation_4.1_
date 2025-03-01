@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">30.0dip</dimen>
+    <dimen name="activity_horizontal_margin_card">40.0dip</dimen>
+    <dimen name="dialog_elevation">50.0dip</dimen>
+    <dimen name="dialog_mini_width">400.0dip</dimen>
+    <dimen name="main_activity_linear_layout_padding">21.0dip</dimen>
+</resources>

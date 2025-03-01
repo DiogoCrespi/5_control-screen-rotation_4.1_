@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">55.0dip</dimen>
+    <dimen name="activity_horizontal_margin_card">75.0dip</dimen>
+    <dimen name="font_size">20.0sp</dimen>
+    <dimen name="main_activity_linear_layout_padding">30.0dip</dimen>
+</resources>
